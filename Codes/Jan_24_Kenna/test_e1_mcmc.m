@@ -25,7 +25,7 @@ end
 addpath('/Users/birotimi/Downloads/HVSR-Joint-Inversion/AGU_models/functions');
 addpath('/Users/birotimi/Downloads/HVSR-Joint-Inversion/Codes/Mod1_forward_models');
 
-station_name = 'D20';
+station_name = 'E13';
 
 fprintf('MCMC Joint Inversion Test - Station %s\n', station_name);
 fprintf('==========================================\n\n');
