@@ -1,2 +1,2 @@
 # HVSR-DC-JI-Inv
-HVSR-ELLIPTICITY-DISPERSION Inversion engion using transdimensional bayesian inversion
+HVSR-ELLIPTICITY-DISPERSION Inversion engine using hierarchical Bayesian algorithm
